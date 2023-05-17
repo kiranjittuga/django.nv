@@ -1,0 +1,18 @@
+{
+    "Name": "SQL Injection",
+    "Name":"XSS",
+    "Vulnerabilities": "10",
+    "Valid": "2",
+    "Severity": "High",
+    "generated_at": "2022-05-16T17:37:50Z",
+    "Name":"SQL injection",
+    "Vulnerabilities": "9",
+    "Valid": "1",
+    "Severity": "High",
+    "generated_at": "2022-05-16T17:37:50Z",
+    "Name":"IDOR",
+    "Vulnerabilities": "6",
+    "Valid": "4",
+    "Severity": "High",
+    "generated_at": "2022-05-16T17:37:50Z"
+}
