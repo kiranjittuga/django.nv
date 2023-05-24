@@ -12,5 +12,5 @@
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           docker_name: 'owasp/zap2docker-stable:2.10.0'
-          target: ${{ secrets.PROD_URL }}
+          target: ${{ https://www.celestialsys.com }}
         continue-on-error: true
